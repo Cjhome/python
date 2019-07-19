@@ -6,6 +6,9 @@ node_modules
 /tests/e2e/screenshots/
 /tests/**/coverage/
 
+
+/pygame-alien/__*__/*
+
 # local env files
 .env.local
 .env.*.local
