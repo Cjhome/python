@@ -65,7 +65,7 @@ filelock==3.0.12
 Flask==1.1.2
 Flask-Login==0.4.1
 future==0.17.1
-gerapy==0.8.5
+gerapy==0.9.8
 gevent==1.4.0
 glob2==0.7
 greenlet==0.4.15
